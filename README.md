@@ -1,5 +1,5 @@
-### 👋 Hi there, I'm Akhil
- 🔭 I’m Frontend dev
+### 👋 Hi there, 
+ 🔭 I'm Akhil a Frontend dev
 <!--
 **itsakhilp/itsakhilp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
