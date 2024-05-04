@@ -1,11 +1,12 @@
 👋 Hello World! 
-    I'm AKHIL😎, a passionate Full-Stack Developer specializing in MERN. 
+
+😎 I'm AKHIL, a passionate Full-Stack Developer specializing in MERN. 
 
 🌐 In addition to web development, I'm well-versed in Next.js.
 
 📱 And when it comes to mobile app development, I turn to React Native.
 
-🚀 Whether it's crafting elegant code, optimizing performance, or solving complex challenges, I'm driven by a relentless passion for innovation and excellence. Let's collaborate and build the next generation of digital solutions together!
+🚀 Let's collaborate and build the next generation of digital solutions together!
 <!--
 **itsakhilp/itsakhilp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
