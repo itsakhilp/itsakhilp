@@ -1,10 +1,6 @@
 👋 Hello World! 
 
-<p>😎 I'm <strong>AKHIL</strong>, a passionate Full-Stack Developer specializing in <strong>MERN</strong> Stack. </p>
-
-
-<p>🌐 In addition to web development, I'm well-versed in <strong>NEXT JS</strong></p>
-
+<p>😎 I'm <strong>AKHIL</strong>, a passionate Full-Stack Developer specializing in <strong>MERN</strong> Stack and <strong>Next.JS</strong></p>
 
 <p>📱 And when it comes to mobile app development, I turn to <strong>REACT NATIVE</strong></p>
 
